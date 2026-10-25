@@ -1,0 +1,23 @@
+NORDKAPP ENGINEERING AS - WEEKLY STATUS REPORT
+Project: Fjordvik Gas Compression Upgrade
+Package: Module 3 (compressor skid and piping)
+Week: 42
+
+Progress
+- Piping fabrication is 82% complete (plan: 85%). Spool 3-114 to 3-131 are waiting for NDT.
+- Structural steel for the skid base frame was delivered on Tuesday and passed incoming inspection.
+- Electrical cable tray installation started on Thursday, two days ahead of schedule.
+
+Issues
+- Two weld repairs on spool 3-118 after radiographic testing. Root cause under review with the welding coordinator.
+- Delivery of the anti-surge valve is delayed by one week. Supplier has confirmed new date in week 44.
+
+Next week
+- Complete NDT backlog and hydrotest of spools 3-101 to 3-113.
+- Start insulation on completed lines.
+- Mechanical completion walkdown for the lube oil system.
+
+HSE
+- No lost time incidents. One near miss reported (dropped hand tool from scaffold, no injury).
+
+Prepared by: Site Engineering, Module 3

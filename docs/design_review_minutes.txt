@@ -1,0 +1,22 @@
+NORDKAPP ENGINEERING AS - MINUTES OF MEETING
+Meeting: 60% Design Review, Lube Oil and Seal Gas Systems
+Date: 14 October 2026
+Participants: Process, Mechanical, Piping, Instrument, Safety, Client representative
+
+1. Process
+The seal gas filter sizing was confirmed for the new compressor duty. Process will issue rev B of the datasheet by 24 October.
+
+2. Piping and layout
+Access to the lube oil cooler for tube bundle removal is blocked by a cable ladder. Piping and Electrical to agree a new routing. Action: Piping lead, due 28 October.
+
+3. Instrumentation
+Two pressure transmitters on the seal gas panel are missing isolation valves. Action: Instrument lead to update the P&ID, due 21 October.
+
+4. Safety
+The safety engineer requested a check of the relief valve discharge location against the hazardous area drawing. Action: Safety engineer, due 31 October.
+
+5. Decisions
+- Lube oil console stays at the current location.
+- 90% review planned for week 47.
+
+Open actions: 4. Next meeting: 90% review.

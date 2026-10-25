@@ -1,0 +1,10 @@
+# Secrets and local config
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw run logs (results are summarised in results/)
+logs/

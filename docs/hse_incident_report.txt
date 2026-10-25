@@ -1,0 +1,23 @@
+NORDKAPP ENGINEERING AS - HSE INCIDENT REPORT
+Report no: HSE-2026-0117
+Classification: Near miss (high potential)
+Location: Fjordvik site, Module 3 scaffold, level +12 m
+
+Description
+At 10:40 a 0.6 kg torque wrench fell from the scaffold platform at level +12 m and landed inside the barriered zone below. The zone was correctly barriered and nobody was inside it. The wrench was not secured with a tool lanyard.
+
+Immediate actions
+- Work at height on the scaffold was stopped for 30 minutes.
+- All tools at height were checked for lanyards.
+- Toolbox talk held with the mechanical crew.
+
+Root cause
+- Tool lanyards were available but not used because the crew considered the job "short duration".
+- Toe board on one scaffold bay was missing after a modification the day before.
+
+Corrective actions
+1. Scaffold inspection after every modification, signed by the scaffold supervisor. Owner: Scaffold lead. Due: week 43.
+2. Dropped objects campaign for all crews on site. Owner: HSE advisor. Due: week 44.
+3. Spot checks of tool lanyards twice per week. Owner: Area supervisors. Due: ongoing.
+
+Potential severity: Serious injury. Actual severity: None.

@@ -1,0 +1,23 @@
+NORDKAPP ENGINEERING AS - SUPPLIER EVALUATION
+Scope: Control valves for Fjordvik Gas Compression Upgrade
+Evaluated suppliers: Supplier A, Supplier B, Supplier C
+
+Technical evaluation (weight 60 %)
+- Supplier A: Fully compliant. Proven design for similar duty. Score 8.5 / 10.
+- Supplier B: Compliant with two clarifications on actuator sizing. Score 7.5 / 10.
+- Supplier C: Deviation on material for sour service. Score 5.0 / 10.
+
+Delivery (weight 20 %)
+- Supplier A: 22 weeks.
+- Supplier B: 18 weeks.
+- Supplier C: 26 weeks.
+
+Quality and HSE track record (weight 20 %)
+- Supplier A: Good. One minor finding in last audit, closed.
+- Supplier B: Good. No open findings.
+- Supplier C: Two open findings from 2025 audit.
+
+Recommendation
+Supplier B is recommended. It has the best delivery time and an acceptable technical score once the actuator clarifications are closed. Supplier A is a strong backup.
+
+Next step: Technical clarification meeting with Supplier B in week 44.
